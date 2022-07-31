@@ -1,0 +1,24 @@
+h1{
+    display: flex; 
+    margin: 50px;
+    color: chartreuse;
+    border: dotted;
+}
+p{
+    margin: 50px;
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 100;
+    font-style: italic;
+    flex-direction: row;
+    color:darkgoldenrod;
+    
+}
+img{
+    margin: 50px;
+    height: 200; 
+    width: 150;
+    transition: all ls;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
